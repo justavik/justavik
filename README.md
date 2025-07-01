@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/justavik" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/@justavik" target="_blank">
+  <a href="https://www.youtube.com/@just_avik" target="_blank">
   <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
   </a>
 </p>
