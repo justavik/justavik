@@ -102,7 +102,7 @@
 
 ![RPI-ESP32](rpiesp32.jpg)
 
-### 🌐 [QUICie: RaspberryPi-ESP32 Remote PPT Display & Control System](https://github.com/justavik/RPI-ESP32-Remote-PPT-Display-Control)
+### 🌐 [QUICie: Minimal QUIC protocol implementation with HTTP/3 server](https://github.com/justavik/QUICie)
 
 > • Tools/Tech: Python (asyncio, cryptography, aioquic), HTTP/3, QUIC, UDP, Prometheus  
 > • Minimal QUIC protocol implementation with HTTP/3 server, client testing, cryptographic handshakes, path migration, congestion control, and performance waterfall visualization for comparison with HTTP/1 over TCP
