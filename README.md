@@ -1,5 +1,5 @@
 # Hey 👋 , I'm Avik 
-### 💻 Full Stack (MERN and Low Code (Pega)) | ⚙️ Embedded Systems | ✍️ Blogs on Core CS at [CSNoBS.com](https://csnobs.com)  
+### 💻 Full Stack (MERN and Low Code on Pega) | ⚙️ Embedded Systems | ✍️ Blogs on Core CS at [CSNoBS.com](https://csnobs.com)  
 > Have made full stack freelance CRUD projects, interned at a Services MNC on Pega, a low code tool and and some passion projects in Embedded Systems with me RPi and ESP32 | Can develop quickly with AI assisted tools (don't worry I understand the code it generates)
 
 
@@ -98,7 +98,9 @@
 > • Automatic BLE reconnection handling  
 > • Comprehensive logging system  
 > • System service for automatic startup  
-> • External display support  
+> • External display support
+
+![RPI-ESP32](rpiesp32.jpg)
 
 ### 🌐 [QUICie: RaspberryPi-ESP32 Remote PPT Display & Control System](https://github.com/justavik/RPI-ESP32-Remote-PPT-Display-Control)
 
