@@ -4,7 +4,7 @@
 
 
 ---
-
+![CSNoBS](csnobshome.png)
 ---
 
 ## Who/What/Why Am I?
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-
+![X](xavik.png)
 ---
 
 <h3 align="left">🛠️ Languages & Tools</h3>
